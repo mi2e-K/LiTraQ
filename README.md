@@ -60,8 +60,7 @@ Naik AA, Ma X, Munyeshyaka M, Leibenluft E, Li Z. A New Behavioral Paradigm for 
 
 ## DeepLabCut references
 
-- Mathis A, Mamidanna P, Cury KM, et al. DeepLabCut: markerless pose estimation of user-defined body parts with deep learning. *Nature Neuroscience*. 2018;21:1281-1289. https://doi.org/10.1038/s41593-018-0209-y
-- Nath T, Mathis A, Chen AC, et al. Using DeepLabCut for 3D markerless pose estimation across species and behaviors. *Nature Protocols*. 2019;14:2152-2176. https://doi.org/10.1038/s41596-019-0176-0
+Mathis A, Mamidanna P, Cury KM, et al. DeepLabCut: markerless pose estimation of user-defined body parts with deep learning. *Nature Neuroscience*. 2018;21:1281-1289. https://doi.org/10.1038/s41593-018-0209-y
 
 ## Notes
 
