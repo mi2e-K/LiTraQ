@@ -42,6 +42,12 @@ python litraq.py analyze --help
 
 Main outputs include per-frame movement metrics, time-bin and edge-region summaries, straight-transit candidates and accepted events, shuttle events, and optional QC videos.
 
+## QC example
+
+![LiTraQ straight-transit QC example](assets/litraq_straight_transit_example.gif)
+
+A human-reviewed straight end-to-end transit accepted by LiTraQ. The overlay shows the tracked body-center path and end-zone boundaries.
+
 ## Methods text (copy-ready)
 
 The following text describes APRO-session analysis performed with the current default parameters:
