@@ -46,7 +46,7 @@ Main outputs include per-frame movement metrics, time-bin and edge-region summar
 
 The following text describes APRO-session analysis performed with the current default parameters:
 
-> Mouse trajectories during alternate poking reward omission (APRO) sessions were analyzed from DeepLabCut tracking data using LiTraQ (Linear-track Trajectory Analysis and Quantification; https://github.com/mi2e-K/LiTraQ). Movement was defined as speed of at least 1.0 cm/s after excluding bouts shorter than 0.20 s or with net displacement below 0.50 cm. End-to-end transits between opposing 6.5-cm end zones were classified using default thresholds for path efficiency, deviation, pausing, tracking validity, direction reversal, and wall-posture interruption.
+> Mouse trajectories during alternate poking reward omission (APRO) sessions were analyzed from DeepLabCut tracking data using LiTraQ (Linear-track Trajectory Analysis and Quantification; https://github.com/mi2e-K/LiTraQ). Movement was defined as speed of at least 1.0 cm/s after excluding bouts shorter than 0.20 s or with net displacement below 0.50 cm. Straight end-to-end transits between opposing 6.5-cm end zones were identified using LiTraQ’s default criteria.
 
 ## APRO reference
 
