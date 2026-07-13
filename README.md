@@ -42,11 +42,11 @@ python litraq.py analyze --help
 
 Main outputs include per-frame movement metrics, time-bin and edge-region summaries, straight-transit candidates and accepted events, shuttle events, and optional QC videos.
 
-## QC example
+## End-to-end transit analysis
 
-![LiTraQ straight-transit QC example](assets/litraq_straight_transit_example.gif)
+LiTraQ detects and quantifies end-to-end transits between opposing end zones. The example below shows a representative, human-reviewed straight transit accepted by LiTraQ; the overlay displays the tracked body-center path and end-zone boundaries.
 
-A human-reviewed straight end-to-end transit accepted by LiTraQ. The overlay shows the tracked body-center path and end-zone boundaries.
+![Representative LiTraQ end-to-end transit analysis](assets/litraq_straight_transit_example.gif)
 
 ## Methods text (copy-ready)
 
