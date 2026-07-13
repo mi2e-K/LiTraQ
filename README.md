@@ -58,6 +58,11 @@ The following text describes APRO-session analysis performed with the current de
 
 Naik AA, Ma X, Munyeshyaka M, Leibenluft E, Li Z. A New Behavioral Paradigm for Frustrative Nonreward in Juvenile Mice. *Biological Psychiatry: Global Open Science*. 2024;4:31-38. https://doi.org/10.1016/j.bpsgos.2023.09.007
 
+## DeepLabCut references
+
+- Mathis A, Mamidanna P, Cury KM, et al. DeepLabCut: markerless pose estimation of user-defined body parts with deep learning. *Nature Neuroscience*. 2018;21:1281-1289. https://doi.org/10.1038/s41593-018-0209-y
+- Nath T, Mathis A, Chen AC, et al. Using DeepLabCut for 3D markerless pose estimation across species and behaviors. *Nature Protocols*. 2019;14:2152-2176. https://doi.org/10.1038/s41596-019-0176-0
+
 ## Notes
 
 Verify video and DLC frame counts, arena calibration, and straight-transit QC before interpreting results. The wall-posture classifier is a 2D proxy derived from a top-down view and does not directly establish rearing.
